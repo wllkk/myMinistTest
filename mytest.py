@@ -7,6 +7,8 @@ print(a)
 bn = torch.zeros(a.shape[0] * 3)
 print(bn)
 
+
+
 i = 0
 index = 0
 
